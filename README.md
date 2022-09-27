@@ -19,9 +19,11 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-nodejs 17 installed
+nodejs 17 installed, git, browser
 
 ### Setup
+
+Clone the repository to your local machine/environment
 
 ### Install
 
